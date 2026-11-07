@@ -9,7 +9,7 @@ Most of my work lives in private repos because it runs real businesses. Below is
 #### What I've built
 
 **[Investigator Events](https://investigatorevents.com)**: the global events and community platform for the private investigations industry
-- Freelance product and engineering lead, Mar 2026 to now, hired by the founder of Conflict International. I own the roadmap, design, code and delivery end to end.
+- Freelance product and engineering lead, Mar 2026 to now, hired by the founder of Conflict International. I'm the only developer. I decide what to build, design it, code it and ship it, working directly with the founder.
 - Live on web, the App Store and Google Play: 500+ users (260+ members, 400+ newsletter subscribers), 80+ professional associations, 430+ events in 45+ countries.
 - 820+ commits. Next.js, TypeScript, Supabase (Postgres, row-level security, auth), Capacitor for the iOS and Android apps, Resend for email, Vercel cron jobs, Sentry, and Upstash rate limiting.
 - Built a social feed, stories, RSVPs that show who's going, messaging, reviews, push notifications, a weekly newsletter pipeline, an automated daily event scraper with a review queue, and a licensing map built with D3.
